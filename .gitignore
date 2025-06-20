@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# for OS
+.DS_Store
+Thumbs.db
+
+
+# TypeScript
+dist/
+
+# VSCode
+.vscode/

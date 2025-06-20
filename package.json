@@ -1,0 +1,25 @@
+{
+  "name": "ts-bootcamp-step001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masatoshisato/ts-bootcamp-step001.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/masatoshisato/ts-bootcamp-step001/issues"
+  },
+  "homepage": "https://github.com/masatoshisato/ts-bootcamp-step001#readme",
+  "devDependencies": {
+    "@types/node": "^24.0.3",
+    "typescript": "^5.8.3"
+  }
+}
