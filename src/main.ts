@@ -1,2 +1,2 @@
-const message: string = "hello, TypeScript bootcamp!";
-console.log(message);
+const greetingMessage: string = "hello, TypeScript bootcamp!";
+console.log(greetingMessage);
